@@ -1,10 +1,10 @@
 # Redes Complexas - Repositório de Código
 
-Este repositório abriga o código correspondente à prova, ao projeto final e aos questionários elaborados durante o curso SME0130 - Redes Complexas, oferecido no 5º semestre no ICMC-USP. Na condução desta disciplina, foram aplicados diversos conceitos fundamentais, os quais estão detalhados a seguir:
+Este repositório hospeda o código correspondente à prova, ao projeto final e aos questionários elaborados durante a disciplina SME0130 - Redes Complexas, ministrada no 5º semestre no ICMC-USP. A implementação dos trabalhos foi conduzida em Python, utilizando bibliotecas como Numpy, Matplotlib, Sklearn e NetworkX. No decorrer desta disciplina, foram aplicados diversos conceitos fundamentais, os quais podem ser descritos a seguir:
 
 ## Prova de Redes Complexas
 
-A prova abordou os seguintes tópicos:
+A avaliação abordou os seguintes tópicos:
 - Criação e exibição de Redes Complexas
 - Caminhada Aleatória
 - Eigenvector Centrality
@@ -15,9 +15,7 @@ A prova abordou os seguintes tópicos:
 
 ## Projeto de Redes Complexas
 
-No projeto final, realizou-se uma comparação entre algoritmos de clusterização e detecção de comunidades em redes complexas, utilizando o conjunto de dados do Iris-dataset. Diferentes métricas de distância, algoritmos de clusterização e algoritmos de detecção de comunidade foram empregados para uma análise abrangente.
-
-Um PDF foi elaborado, apresentando uma descrição dos procedimentos adotados, bem como uma análise dos resultados alcançados.
+No projeto final, realizou-se uma comparação entre algoritmos de clusterização e detecção de comunidades em redes complexas, utilizando o conjunto de dados do Iris-dataset. Diferentes métricas de distância, algoritmos de clusterização e algoritmos de detecção de comunidade foram empregados para uma análise abrangente. Além disso, foi elaborado um documento PDF, apresentando uma descrição detalhada dos procedimentos adotados e uma análise aprofundada dos resultados obtidos.
 
 ## Questionários sobre Redes Complexas
 
@@ -44,4 +42,4 @@ Um PDF foi elaborado, apresentando uma descrição dos procedimentos adotados, b
 - Assortatividade
 
 ### Questionário 6
-- Criação de Redes Barabasi-Albert e Erdos-Renyi
+- Criação de Redes Barabasi-Albert e Erdos-Reny
